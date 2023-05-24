@@ -1,4 +1,8 @@
-# TypeScript
+---
+title : TypeScript
+feed: show
+date : 24-05-2023
+---
 
 ## Override
 
