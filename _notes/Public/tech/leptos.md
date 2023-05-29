@@ -1,7 +1,7 @@
 ---
 title : Leptos
 feed: show
-tags: rust
+tags: rust, frameworks
 date : 29-05-2023
 ---
 
