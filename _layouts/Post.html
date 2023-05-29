@@ -125,7 +125,7 @@
                     <div class="tags">
                       <span class="label">tags:</span>
                       {% for tag in page.tags %}
-                      <span class="tag">{{tag}}</span>,
+                      <span class="tagname">{{tag}}</span>{% unless forloop.last %},{% endunless -%}
                       {%- endfor -%}
                     </div>
                     {%- include Content.html -%}
