@@ -1,7 +1,7 @@
 ---
 title : Running rendering tests with Ember Engines and Mirage
 feed: show
-tags: JavaScript framework
+tags: JavaScript emberjs
 date : 30-05-2023
 updated: 31-05-2023
 ---
