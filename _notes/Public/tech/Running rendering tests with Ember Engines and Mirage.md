@@ -3,6 +3,7 @@ title : Running rendering tests with Ember Engines and Mirage
 feed: show
 tags: JavaScript framework
 date : 30-05-2023
+updated: 31-05-2023
 ---
 
 When upgrading from [[EmberJS]] 3.25 to 4.X, I removed old code deprecations and I have the following error while running `ember t -s`:
@@ -13,7 +14,7 @@ When upgrading from [[EmberJS]] 3.25 to 4.X, I removed old code deprecations and
 
 There's no much information in Google about this issue. [Documentation is currently outdated](https://ember-engines.com/docs/testing-integration) and error prompt doesn't give any clue about how to fix it.
 
-### Solution
+### Updating deprecated test setup
 
 The usage of `engineResolverFor` [it was deprecated](https://github.com/ember-engines/ember-engines/pull/812/files) in `ember-engines: v.0.9.0` and it has incompatibility issues with latest versions of [[EmberJS]]. The new API for testing engines was in [this thread](https://github.com/ember-engines/ember-engines/pull/653) but there wasn't no info in the official docs.
 
@@ -58,9 +59,9 @@ module('Integration | Component | example-component', function (hooks) {
   test('...', async function(assert) {
 ```
 
-### Something to take a look
+### Can't find components from other in-repo-addons or engines
 
-When mixing engines components, we can have some issues about not finding the component.
+When having various engines, we can use component from a different engine or in-repo-addon inside our project. There could be some issues about not finding the component because there's discrepances about the current owner of the application.
 
 This is solved by setting the owner when rendering the component:
 
@@ -71,3 +72,28 @@ await render(hbs`<ExampleComponent />`, { owner: this.engine });
 - [Official docs (ember-test-helpers)](https://github.com/emberjs/ember-test-helpers/blob/master/API.md#rendering-helpers)
 - [Implementing info](https://github.com/emberjs/ember-test-helpers/pull/795)
 
+
+### Registering services in the engine
+
+If there's the need to register a service with mock data, the API for doing it changes a bit. Previously, we had to register the service into `owner` but now, as seen in the previous section, the owner has changed (we have set it into `this.engine`). So we need to register directly into the engine.
+
+**before**
+
+```javascript
+setupRenderingTest(hooks);
+
+hooks.beforeEach(function () {
+  this.owner.register('service:my-service', MockService);
+});
+```
+
+**after**
+
+```javascript
+setupRenderingTest(hooks);
+setupEngine(hooks, modulePrefix);
+
+hooks.beforeEach(function () {
+  this.engine.register('service:my-service', MockService);
+});
+```
