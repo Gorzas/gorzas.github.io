@@ -57,3 +57,17 @@ module('Integration | Component | example-component', function (hooks) {
 
   test('...', async function(assert) {
 ```
+
+### Something to take a look
+
+When mixing engines components, we can have some issues about not finding the component.
+
+This is solved by setting the owner when rendering the component:
+
+```javascript
+await render(hbs`<ExampleComponent />`, { owner: this.engine });
+```
+
+- [Official docs (ember-test-helpers)](https://github.com/emberjs/ember-test-helpers/blob/master/API.md#rendering-helpers)
+- [Implementing info](https://github.com/emberjs/ember-test-helpers/pull/795)
+
