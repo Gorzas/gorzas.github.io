@@ -2,8 +2,6 @@
 title : Running rendering tests with Ember Engines and Mirage
 feed: show
 tags: JavaScript emberjs
-date : 30-05-2023
-updated: 31-05-2023
 ---
 
 When upgrading from [[EmberJS]] 3.25 to 4.X, I removed old code deprecations and I have the following error while running `ember t -s`:
