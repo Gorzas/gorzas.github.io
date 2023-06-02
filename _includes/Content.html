@@ -32,6 +32,10 @@
 
 <!-- Parse internal links, external links, transclusions etc and manipuate the content to reflect it accordingly -->
 <div class="content">
+  <ul>
+    <li>Created: {{page.date}}</li>
+    <li>Updated: {{page.last_modified_at}}</li>
+  </ul>
     {%- if site.preferences.wiki_style_link.enabled -%}
         {%- assign content_array = content | split:'[[' -%}
         {%- assign external_link_delimiter = '::' -%}
