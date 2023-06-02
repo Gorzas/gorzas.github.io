@@ -62,6 +62,7 @@ plugins:
   - jekyll-feed 
   - jekyll-sitemap 
   - jekyll-tidy
+  - jekyll-last-modified-at
     
 ## Enable Collections
 ## Suggested collects are "notes" "lists" and "blog"
