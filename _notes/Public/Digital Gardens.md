@@ -1,7 +1,11 @@
 ---
 title: Digital Gardens - An intro
 feed: show
+tags: digital-gardens
 date : 24-05-2023
+updated: 08-06-2023
+type: note
+growth: seedlings
 ---
 
 ### TODO
