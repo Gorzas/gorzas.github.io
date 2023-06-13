@@ -17,7 +17,7 @@ feed: show
 tags: tag-1 tag-2
 date: dd-mm-yyyy
 updated: dd-mm-yyyy
-type: note ¦ essay
+type: note ¦ essay | ideas
 growth: seedlings | buddling | evergreen
 ---
 ```
