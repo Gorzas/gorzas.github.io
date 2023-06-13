@@ -1,6 +1,6 @@
 # JDCano's Digital Garden
 
-## Index
+## Main Areas
 
 1. Tech
     1. EmberJS
@@ -8,7 +8,7 @@
 2. Music
 3. Lifestyle
 
-### Headers for resources and essays
+## Headers for resources and essays
 
 ```
 ---
