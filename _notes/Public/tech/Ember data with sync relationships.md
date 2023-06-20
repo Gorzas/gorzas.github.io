@@ -75,6 +75,14 @@ export default class Post extends Model {
   @hasMany('categories', { async: false, inverse: null }) categories
 ```
 
+### Differences between sync and async relationships
+
+From docs:
+
+> In contrast to async relationship, accessing a sync relationship will always return the record (Model instance) for the existing local resource, or **null**. But it will error on access when a related resource is known to exist and it has not been loaded.
+
+This means, **a sync relationship could be empty**, so it needs to be treated with care when accessing to its properties.
+
 ### Note
 
 - Using **async** or **sync** relationships in Ember Data depends of the necessities of the webapp. **There isn't an ideal path of work to solve every problem**, it depends of the context of work.
