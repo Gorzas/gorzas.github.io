@@ -26,7 +26,7 @@ We have a custom webapp with two main resources: posts and categories, and we wa
 
 In an async way of work, `GET /posts/:id` would look like this using a REST approach:
 
-```
+```json
 {
   "post": {
     [data]
@@ -38,7 +38,7 @@ In an async way of work, `GET /posts/:id` would look like this using a REST appr
 
 In a **sync way** of work, we would only have one API point for achieve this:
 
-```
+```json
 // GET /posts/:id:
 {
   "post": {
@@ -58,7 +58,7 @@ In a **sync way** of work, we would only have one API point for achieve this:
 We need to define **serializer** and **model**. Since Ember 3.28, it requires the model to specify when a `hasMany` relationship is **async**.
 
 **serializer**
-```
+```javascript
 export default class Post extends Serializer {
   attrs = {
     categories: { embedded: 'always' },
@@ -66,7 +66,7 @@ export default class Post extends Serializer {
 ```
 
 **model**
-```
+```javascript
 import Model, { attr, hasMany, belongsTo } from '@ember-data/model';
 
 export default class Post extends Model {
@@ -78,3 +78,6 @@ export default class Post extends Model {
 ### Note
 
 - Using **async** or **sync** relationships in Ember Data depends of the necessities of the webapp. **There isn't an ideal path of work to solve every problem**, it depends of the context of work.
+
+### References
+- (Ember Data hasMany docs)[https://api.emberjs.com/ember-data/3.28/functions/@ember-data%2Fmodel/hasMany]
