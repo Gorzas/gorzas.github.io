@@ -26,3 +26,4 @@ parent.children.forEach((child) => log(child.currentState.stateName)); // root.l
 ### References
 
 - [Attempted to handle event `becameInvalid` while in state 'root.loaded.saved' - StackOverflow 2015](https://stackoverflow.com/questions/27698496/attempted-to-handle-event-becameinvalid-while-in-state-root-loaded-saved) *old reference*
+- https://stackoverflow.com/questions/13342250/how-to-manually-set-an-object-state-to-clean-saved-using-ember-data/23344215#23344215
