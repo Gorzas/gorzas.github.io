@@ -12,3 +12,6 @@ type: note
 ```javascript
 cy.get('[data-test-element="element"]').should('exist')
 ```
+
+### Notes
+- Write about good practices in Cypress/tests architectures
