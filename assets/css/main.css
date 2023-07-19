@@ -1120,7 +1120,7 @@ a.box-feed:active {
 
 
 .content blockquote {
-  background-color: var(--color-bg-main);
+  background-color: var(--color-border-light);
   border-left: 5px solid var(--color-border-light);
 }
 .content ol {
