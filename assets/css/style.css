@@ -127,6 +127,7 @@ p {
     line-height: var(--text-leading-normal);
     font-weight: var(--text-weight-normal);
     margin: 0 0 1em 0;
+    text-indent: 2rem;
 }
 
 code {
