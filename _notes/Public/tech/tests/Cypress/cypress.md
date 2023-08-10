@@ -16,14 +16,10 @@ cy.get('[data-test-element="element"]').should('exist')
 ### Run Cypress without stopping on first failure
 
 ```
-cypress run ----auto-cancel-after-failures false
+cypress run ----auto-cancel-after-failures false --record
 ```
 
-To do it with printing the standard output and standard error in a file:
-
-```
-cypress run ----auto-cancel-after-failures false > cypress_results.txt 2>&1
-```
+TBD It may require add configuration parameters in Cypress Cloud.
 
 
 ### Notes
