@@ -11,3 +11,5 @@ growth: seedlings
 ### References
 
 - [Leptos repository](https://github.com/leptos-rs/leptos)
+- [Roadmap v0.5.x](https://github.com/leptos-rs/leptos/issues/1147)
+
