@@ -88,4 +88,4 @@ This means, **a sync relationship could be empty**, so it needs to be treated wi
 - Using **async** or **sync** relationships in Ember Data depends of the necessities of the webapp. **There isn't an ideal path of work to solve every problem**, it depends of the context of work.
 
 ### References
-- (Ember Data hasMany docs)[https://api.emberjs.com/ember-data/3.28/functions/@ember-data%2Fmodel/hasMany]
+- [Ember Data hasMany docs](https://api.emberjs.com/ember-data/3.28/functions/@ember-data%2Fmodel/hasMany)
