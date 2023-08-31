@@ -14,3 +14,4 @@ growth: seedlings
 
 ### References
 - [Ember Data Model Fragments EOL](https://github.com/adopted-ember-addons/ember-data-model-fragments/issues/471#issuecomment-1637407820)
+- [Ember Data Roadmap](https://github.com/emberjs/data/blob/main/ROADMAP.md)
