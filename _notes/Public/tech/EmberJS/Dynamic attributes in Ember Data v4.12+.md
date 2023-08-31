@@ -18,3 +18,4 @@ growth: seedlings
 - [RecordData v2 RFC](https://github.com/emberjs/rfcs/blob/master/text/0461-ember-data-singleton-record-data.md)
 - [ember-m3](https://github.com/hjdivad/ember-m3)
 - [Ember Data 5.x Update](https://blog.emberjs.com/ember-data-5-x-update-2023-04-15/)
+- [Custom Model Classes RFC](https://github.com/emberjs/rfcs/blob/master/text/0487-custom-model-classes.md)
