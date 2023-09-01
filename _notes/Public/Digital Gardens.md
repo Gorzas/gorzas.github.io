@@ -18,3 +18,8 @@ growth: seedlings
 - Digital Garden approach: [https://maggieappleton.com/garden-history](https://maggieappleton.com/garden-history)
 - Another great Digital Garden example: [https://www.christopherbiscardi.com/](https://www.christopherbiscardi.com/)
 - Everything I Know: [https://wiki.nikiv.dev/#content-structure](https://wiki.nikiv.dev/#content-structure)
+
+### Digital Garden Examples:
+- [Maggie Appleton](https://maggieappleton.com/garden-history)
+- [Chris Biscardi](https://www.christopherbiscardi.com/)
+- [Emmanuel Raymond](https://www.peoray.dev/)
