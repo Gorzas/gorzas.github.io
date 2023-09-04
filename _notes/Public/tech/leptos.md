@@ -8,6 +8,15 @@ type: note
 growth: seedlings
 ---
 
+### Things to look for
+
+What does the following code means?
+
+```rust
+#[derive(Clone, Debug, PartialEq, Eq, Serialize, Deserialize)]
+#[cfg_attr(feature = "ssr", derive(sqlx::FromRow))]
+```
+
 ### References
 
 - [Leptos repository](https://github.com/leptos-rs/leptos)
