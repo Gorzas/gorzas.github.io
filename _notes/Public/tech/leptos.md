@@ -17,6 +17,14 @@ What does the following code means?
 #[cfg_attr(feature = "ssr", derive(sqlx::FromRow))]
 ```
 
+Why do I need `create_resource` function?
+
+- code: https://github.com/leptos-rs/leptos/blob/main/leptos_reactive/src/resource.rs#L77
+
+### Ideas
+
+- Add docs about my architecture and way of work using Leptos.
+
 ### References
 
 - [Leptos repository](https://github.com/leptos-rs/leptos)
