@@ -13,6 +13,18 @@ growth: seedlings
 ```rust
 let arr: Vec<String> = vec!["example".to_string()];
 ```
+- Array of objects
+
+```rust
+pub struct Book {
+  pub id: u16,
+  pub title: String,
+}
+
+...
+
+let arr: Vec<Story> = vec![{ id: 1, title: "The Catcher in the Rye" }]
+```
 
 ### Tools
 
