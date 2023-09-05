@@ -26,6 +26,8 @@ pub struct Book {
 let arr: Vec<Story> = vec![{ id: 1, title: "The Catcher in the Rye" }]
 ```
 
+**TODO** An Array and a Vector aren't the same in Rust: [Read more](https://www.cs.brandeis.edu/~cs146a/rust/doc-02-21-2015/book/arrays-vectors-and-slices.html)
+
 ### Tools
 
 - Databases:
