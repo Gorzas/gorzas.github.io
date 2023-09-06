@@ -8,6 +8,8 @@ type: note
 growth: seedlings
 ---
 
+**TODO** add a little example about what's pin a dependency and what solves
+
 Add the following code into `package.json` file:
 
 ```
