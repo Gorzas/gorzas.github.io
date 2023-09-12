@@ -19,3 +19,4 @@ growth: seedlings
 - [ember-m3](https://github.com/hjdivad/ember-m3)
 - [Ember Data 5.x Update](https://blog.emberjs.com/ember-data-5-x-update-2023-04-15/)
 - [Custom Model Classes RFC](https://github.com/emberjs/rfcs/blob/master/text/0487-custom-model-classes.md)
+- [Ember Data Model Fragments support for Ember v4.12+](https://github.com/adopted-ember-addons/ember-data-model-fragments/issues/471)
