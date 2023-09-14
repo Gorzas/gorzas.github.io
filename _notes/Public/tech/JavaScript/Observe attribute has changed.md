@@ -1,7 +1,7 @@
 ---
 title: Observe attribute has changed
 feed: show
-tags: tag-1 tag-2
+tags: javascript debug
 date: 14-09-2023
 updated: 14-09-2023
 type: note
