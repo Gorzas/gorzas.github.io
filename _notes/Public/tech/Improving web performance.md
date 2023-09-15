@@ -19,10 +19,10 @@ Ideas to improve webperformance:
 
 **TODO** Draw a diagram of this.
 
-UI - WebComponents (Design System)
-FE (routes, logic...) - Leptos (Rust) => test performance
-BE - Leptos/Actix (Rust)
-DB - SQLx
+- UI - WebComponents (Design System)
+- FE (routes, logic...) - Leptos (Rust) => test performance
+- BE - Leptos/Actix (Rust)
+- DB - SQLx
 
 
 ### References
