@@ -34,4 +34,4 @@ let arr: Vec<Story> = vec![{ id: 1, title: "The Catcher in the Rye" }]
 ### Tools
 
 - Databases:
-  - SQLx: https://github.com/launchbadge/sqlx
+  - [SQLx](https://github.com/launchbadge/sqlx)
