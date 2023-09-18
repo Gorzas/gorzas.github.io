@@ -28,3 +28,4 @@ Ideas to improve webperformance:
 ### References
 - [How to improve frontend performance](https://dev.to/manish7107/how-to-improve-front-end-performance-3ag7)
 - [Can Rust beat JavaScript in 2023?](https://javascript.plainenglish.io/can-rust-beat-javascript-in-2023-8c081a7cb95b)
+- [The Truth about Rust/WebAssembly Performance](https://www.youtube.com/watch?v=4KtotxNAwME)
