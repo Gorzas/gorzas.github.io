@@ -47,10 +47,10 @@ wasm-bindgen = "0.2"
 web-sys = { version = "0.3.60", features = ["Storage"] }
 ```
 2. Modify manually the version for the following libraries:
-   2.1. leptos
-   2.2. leptos_actix
-   2.3. leptos_meta
-   2.4. leptos_router
+  - leptos
+  - leptos_actix
+  - leptos_meta
+  - leptos_router
 3. Run `cargo build`.
 
 ### Example
