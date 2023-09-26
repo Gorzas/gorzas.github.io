@@ -9,3 +9,7 @@ growth: seedlings
 ---
 
 **TBD**
+
+### References
+
+- [All your mainstream UI frameworks are lying to you](https://moonthought.github.io/posts/all-your-mainstream-ui-frameworks-are-lying-to-you/)
