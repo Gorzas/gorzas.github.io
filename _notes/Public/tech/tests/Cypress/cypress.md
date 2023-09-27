@@ -3,7 +3,7 @@ title: Cypress
 feed: show
 tags: javascript tests
 date: 06-06-2023
-updated: 10-08-2023
+updated: 27-09-2023
 type: note
 ---
 
