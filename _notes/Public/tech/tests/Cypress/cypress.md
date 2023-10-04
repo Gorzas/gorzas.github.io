@@ -3,9 +3,18 @@ title: Cypress
 feed: show
 tags: javascript tests
 date: 06-06-2023
-updated: 27-09-2023
+updated: 04-10-2023
 type: note
 ---
+
+### Common commands in Cypres
+
+**Type in an input**
+
+```javascript
+cy.get('[data-test-input="input"]').type('Example text')
+```
+
 
 ### Check an element exists in view
 
