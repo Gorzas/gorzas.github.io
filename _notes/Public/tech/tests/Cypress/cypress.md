@@ -15,6 +15,27 @@ type: note
 cy.get('[data-test-input="input"]').type('Example text')
 ```
 
+**Assert sent data to API**
+```javascript
+cy.intercept(
+  {
+    pathname: "/categories",
+    method: "POST",
+  },
+  (req) => {
+    const {
+      body: { category },
+    } = req;
+
+    expect(category.name).to.be.equal("Name");
+
+    req.reply({
+      body: { category: { id: "1" } },
+    });
+  }
+);
+```
+
 
 ### Check an element exists in view
 
