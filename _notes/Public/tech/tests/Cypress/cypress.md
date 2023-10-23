@@ -70,5 +70,29 @@ cy.fixture("blog/posts").then((json) => {
 });
 ```
 
+### Waiting for side effects doesn't happen
+
+Using `cy.wait(Number)` is a [bad practice according Cypress documentation](https://docs.cypress.io/guides/references/best-practices#Unnecessary-Waiting).
+
+Imagine we have the following use case:
+- we are waiting to a Promise that isn't dependable of an API query
+- we are checking that some side effect hasn't happened
+
+For example, checking that a flash message hasn't appeared after saving doing an action in a webapp. The flash message is shown under a Promise (it has a timeout) so waiting for the API isn't enough. And, as we want to check nothing has happened, the test is going to pass wrongly always as we do the check just after the API has success.
+
+In this case, it's ok to do the following in a Cypress:
+```
+// eslint-disable-next-line cypress/no-unnecessary-waiting
+cy.wait(TIMEOUT_FLASH_MESSAGE);
+
+cy.get('[data-test-data="element"]', {
+  timeout: 0,
+}).should("not.exist");
+```
+
 ### Notes
 - Write about good practices in Cypress/tests architectures
+
+### References
+
+- [Best practices - Unnecessary Waiting](https://docs.cypress.io/guides/references/best-practices#Unnecessary-Waiting)
