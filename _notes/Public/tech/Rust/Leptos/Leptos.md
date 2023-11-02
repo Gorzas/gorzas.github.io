@@ -3,10 +3,22 @@ title : Leptos
 feed: show
 tags: rust, frameworks
 date : 29-05-2023
-updated: 29-08-2023
+updated: 02-11-2023
 type: note
 growth: seedlings
 ---
+
+### Install Cargo Leptos
+
+for Windows Subsystem Linux and `Cargo Leptos` v0.2 ([repository](https://github.com/leptos-rs/cargo-leptos)]:
+
+1. Install Rust: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+2. Install dependencies:
+  2.1. `sudo apt install build-essential`
+  2.2. `sudo apt install pkg-config` 
+  2.3. `sudo apt install libss-dev`
+3. Install **Cargo Leptos**: `cargo install --locked cargo-leptos` 
+    
 
 ### Things to look for
 
