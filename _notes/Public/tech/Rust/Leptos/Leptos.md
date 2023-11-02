@@ -14,9 +14,9 @@ for Windows Subsystem Linux and `Cargo Leptos` v0.2 ([repository](https://github
 
 1. Install Rust: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 2. Install dependencies:
-  - `sudo apt install build-essential`
-  - `sudo apt install pkg-config` 
-  - `sudo apt install libss-dev`
+   - `sudo apt install build-essential`
+   - `sudo apt install pkg-config` 
+   - `sudo apt install libss-dev`
 3. Install **Cargo Leptos**: `cargo install --locked cargo-leptos` 
     
 
