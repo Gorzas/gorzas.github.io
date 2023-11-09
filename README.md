@@ -5,6 +5,8 @@
 1. Tech
     1. EmberJS
     2. Rust
+    3. JavaScript / Typescript
+    4. test suites (Cypress...)
 2. Music
 3. Lifestyle
 
