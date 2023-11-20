@@ -28,7 +28,7 @@ async extractErrors(payload) {
 
 As you can see in the code above, we see that `payload.errors` is an array with one element but it suddenly gets clear. We need to know where does it get modified in the code. In small apps, could be very simple but in large size applications it could require a lot of debugging to find the issue.
 
-### Solution
+## Solution
 
 We can override `errors` property to debug the code and finde where is the architecture issue. This way, we can refactor the code and avoid future situations like this.
 
