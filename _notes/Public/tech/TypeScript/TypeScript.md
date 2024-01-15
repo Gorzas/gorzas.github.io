@@ -2,7 +2,12 @@
 title : TypeScript
 feed: show
 date : 24-05-2023
+tags: typescript
+updated: 15-01-2024
+type: note
+growth: seedlings
 ---
+
 
 ## Override
 
