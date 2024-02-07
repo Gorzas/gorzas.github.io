@@ -23,3 +23,9 @@ Example:
   ...
 }
 ```
+
+## EACCESS error when global install
+
+```
+sudo chown -R $(whoami) $(npm config get prefix)/{lib/node_modules,bin,share}
+```
