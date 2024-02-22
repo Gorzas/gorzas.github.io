@@ -36,6 +36,8 @@ cy.intercept(
 );
 ```
 
+**Note**: it's better to follow the following use case: [[Check API query params on Cypress]]
+
 
 ### Check an element exists in view
 
