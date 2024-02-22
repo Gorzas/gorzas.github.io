@@ -33,15 +33,13 @@ A proposal for sections:
 ```
 ## Context
 
-...
-
 ## Problem
-
-...
 
 ## Solution(s)
 
-...
+## Notes
+
+## TODO
 
 ## References
 
