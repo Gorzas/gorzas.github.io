@@ -23,3 +23,29 @@ type: note ¦ essay | ideas
 growth: seedlings | buddling | evergreen
 ---
 ```
+
+## Architecture for notes
+
+The idea is to follow a similar structure per note making easier for the user to find the important information. **This is no mandatory** as it could find cases with different needs.
+
+A proposal for sections:
+
+```
+## Context
+
+...
+
+## Problem
+
+...
+
+## Solution(s)
+
+...
+
+## References
+
+...
+```
+
+Recommended to use `h2` for main sections and `h3` for possible subsections.
