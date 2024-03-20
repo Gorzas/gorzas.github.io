@@ -2,13 +2,15 @@
 
 ## Main Areas
 
-1. Tech
+1. Tech [EN]
     1. EmberJS
     2. Rust
     3. JavaScript / Typescript
     4. test suites (Cypress...)
-2. Music
-3. Lifestyle
+2. Creativity [ES]
+    1. Music
+    2. Writing
+3. Lifestyle [EN]
 
 ## Headers for resources and essays
 
