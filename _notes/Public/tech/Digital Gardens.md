@@ -8,6 +8,14 @@ type: note
 growth: seedlings
 ---
 
+### Types
+
+**TODO**: differ note vs essay
+
+- note
+- essay
+- ideas
+
 ### TODO
 
 - Decide my own structure and hierarchy for Digital Gardens and adapt to my needs
