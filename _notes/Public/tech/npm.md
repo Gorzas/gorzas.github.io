@@ -1,7 +1,11 @@
 ---
 title : NPM
 feed: show
+tags: npm
 date : 24-05-2023
+updated: 18-04-2024
+type: note
+growth: seedlings
 ---
 
 ## Adding dependency from specific commit
