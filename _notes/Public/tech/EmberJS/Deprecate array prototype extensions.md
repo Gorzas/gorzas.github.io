@@ -22,4 +22,4 @@ In the docs ([RFC](https://rfcs.emberjs.com/id/0848-deprecate-array-prototype-ex
 
 ## References
 - [RFC Deprecate array prototype extensions](https://rfcs.emberjs.com/id/0848-deprecate-array-prototype-extensions/)
-- [Ember Deprecations page | Deprecate Array Like](https://deprecations.emberjs.com/ember-data/v4.x#toc_ember-data-deprecate-array-like)
+- [Ember Deprecations page - Deprecate Array Like](https://deprecations.emberjs.com/ember-data/v4.x#toc_ember-data-deprecate-array-like)
