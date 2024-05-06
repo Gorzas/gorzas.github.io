@@ -18,8 +18,10 @@ In the docs ([RFC](https://rfcs.emberjs.com/id/0848-deprecate-array-prototype-ex
 
 ## Solution
 
+The issue is because each one of the deprecations is different but both of them have a similar solution and structures affected. All the info about how to migrate to new API could be found in [this link](https://github.com/smilland/deprecation-app/blob/deprecate-array-prototype-extensions/content/ember/v5/deprecate-array-prototype-extensions.md).
 
 
 ## References
 - [RFC Deprecate array prototype extensions](https://rfcs.emberjs.com/id/0848-deprecate-array-prototype-extensions/)
 - [Ember Deprecations page - Deprecate Array Like](https://deprecations.emberjs.com/ember-data/v4.x#toc_ember-data-deprecate-array-like)
+- [Transition to new Array APIs (pending to be merged)](https://github.com/smilland/deprecation-app/blob/deprecate-array-prototype-extensions/content/ember/v5/deprecate-array-prototype-extensions.md)
