@@ -16,3 +16,4 @@ growth: seedlings
 
 
 ## References
+- [Ember upgrade](https://cli.emberjs.com/release/basic-use/upgrading/)
