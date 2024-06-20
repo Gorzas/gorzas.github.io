@@ -32,4 +32,5 @@ git commit -m "WIP" -n
 
 - [Husky](https://typicode.github.io/husky/)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Release Please](https://github.com/googleapis/release-please)
 
