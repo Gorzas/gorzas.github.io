@@ -31,4 +31,5 @@ git commit -m "WIP" -n
 ## References
 
 - [Husky](https://typicode.github.io/husky/)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
