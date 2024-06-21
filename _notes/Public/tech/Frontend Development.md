@@ -10,3 +10,4 @@ growth: seedlings
 
 ### References
 - [MDN Frontend Curriculum](https://developer.mozilla.org/en-US/curriculum/)
+- [DevDocs](https://devdocs.io/)
