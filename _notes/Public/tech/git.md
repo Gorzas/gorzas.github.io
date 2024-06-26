@@ -1,8 +1,7 @@
 ---
 title: git
 feed: show
-tags:
-  - git
+tags: git
 date: 03-07-2023
 updated: 26-06-2024
 type: note
