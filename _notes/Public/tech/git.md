@@ -1,9 +1,10 @@
 ---
 title: git
 feed: show
-tags: git
+tags:
+  - git
 date: 03-07-2023
-updated: 12-06-2024
+updated: 26-06-2024
 type: note
 growth: seedlings
 ---
@@ -28,9 +29,11 @@ git commit -m "WIP" -n
 
 - What does this tool that doesn't do standard Git hooks?
 
+**TODO** - separate Git from Github tools (in the references are mentioned some Github only tools)
 ## References
 
 - [Husky](https://typicode.github.io/husky/)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [Release Please](https://github.com/googleapis/release-please)
+- [Renovate](https://github.com/renovatebot/renovate)
 
