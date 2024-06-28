@@ -35,4 +35,4 @@ git commit -m "WIP" -n
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [Release Please](https://github.com/googleapis/release-please)
 - [Renovate](https://github.com/renovatebot/renovate)
-
+- [Git Cliff: generate changelog](https://git-cliff.org/)
