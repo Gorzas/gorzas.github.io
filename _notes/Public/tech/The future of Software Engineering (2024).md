@@ -3,7 +3,7 @@ title: The future of Software Engineering (2024)
 feed: show
 tags: webdev
 date: 10-07-2024
-updated: 10-07-2024
+updated: 11-07-2024
 type: essay 
 growth: seedlings
 ---
@@ -33,6 +33,14 @@ A software engineer, in 2024, now shouldn't be specialized in a specific area, l
 - Databases (SQL, NoSQL)
 - Backend development (going to JavaScript/TypeScript, maybe NextJS)
 - Testing (Jest, Cypress, Mocha) and testing strategies (TDD, BDD)
+
+For a modern Software Engineer, the tech stuff isn't the only need to find and grow in a software related career. [Gergely Orosz](https://newsletter.pragmaticengineer.com/) talked with other people who faced the [Dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) and he got some other advices to improve:
+
+- Being [Product-minded](https://blog.pragmaticengineer.com/the-product-minded-engineer/), meaning that the developer should have the area of the product and how the customer uses it as a priority. Tech companies also would looking for developers who want to meet their customers and understand on first hand their needs.
+- Related with the point above: maintain a close relationship with Product Managers roles and talk a lot with them, understand really well what the product does.
+- Know what's the business model of their company and being very close to the products that are bringing money. Everything that's in an investment in the long run has a great chance to being discarded.
+- Avoid leadership roles or not productive roles. Roles like Staff Developer or Engineer Manager are probably going to disappear in the near future. Companies would prioritize people who "do stuff".
+- Communication is **essential**. Learn how to explain complicated stuff in a simple way and, also, try to simplify the code and how to work with it. Learning to document soon and often is an skill.
 
 ### References
 
