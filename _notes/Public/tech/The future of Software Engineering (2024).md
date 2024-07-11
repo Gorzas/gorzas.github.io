@@ -20,7 +20,7 @@ The main concern for a Software Engineer right now is that less investments in T
 
 - An investment in boring technologies and monoliths over "cool stuff" and microservices.
 - With [[TypeScript]], we can see a raise of Full Stack developers, meaning we would see developers doing: backend, web, Android and iOS. He talks about React Native and Flutter.
-- Responsbilities "shiffting left", this means there are going to be less specialized teams (i.e. DevOps + Frontend + QA) and we would see more shared responsibilities. A Software Engineer should now be responsible of more areas: CI/CD, testing, coding...
+- Responsabilities "shiffting left", this means there are going to be less specialized teams (i.e. DevOps + Frontend + QA) and we would see more shared responsibilities. A Software Engineer should now be responsible of more areas: CI/CD, testing, coding...
 - As a side note as a personal concern: he doesn't see AI replacing developers anywhere.
 
 
