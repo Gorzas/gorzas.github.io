@@ -1,9 +1,10 @@
 ---
 title: Debug a native JavaScript method
 feed: show
-tags: javascript
+tags:
+  - javascript
 date: 18-07-2023
-updated: 18-07-2023
+updated: 31-07-2024
 type: note
 growth: seedlings
 ---
@@ -19,7 +20,7 @@ window.debuggingMethod = function (...arguments) {
 }
 ```
 
-- Use `function` better than `arrow function` to avoid undessired scope changes.
+- Use `function` better than `arrow function` to avoid undesired scope changes.
 
 ### Example
 
