@@ -3,10 +3,12 @@ title: How to pin a dependency in package.json
 feed: show
 tags: javascript
 date: 08-08-2023
-updated: 08-08-2023
+updated: 28-08-2024
 type: note
 growth: seedlings
 ---
+
+**This is related with monorepos**
 
 **TODO** add a little example about what's pin a dependency and what solves
 
