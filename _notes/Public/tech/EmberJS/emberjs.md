@@ -3,7 +3,7 @@ title : EmberJS
 feed: show
 tags: JavaScript framework
 date : 30-05-2023
-updated: 25-07-2024
+updated: 09-09-2024
 type: note
 growth: seedlings
 ---
@@ -47,6 +47,10 @@ export class BaseClass {
 }
 ```
 [Source](https://github.com/ember-learn/guides-source/issues/1138)
+
+### Typical issues
+
+- [[Deprecate array prototype extensions]]
 
 ### TODO
 
