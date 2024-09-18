@@ -3,7 +3,7 @@ title : EmberJS
 feed: show
 tags: JavaScript framework
 date : 30-05-2023
-updated: 09-09-2024
+updated: 18-09-2024
 type: note
 growth: seedlings
 ---
@@ -58,7 +58,11 @@ export class BaseClass {
 - A better solution when sending data to the API could be to use Ember Data and Ember Data Models attributes. But, as currently Ember Data Models are in the path of deprecation, more research could be needed about it.
 - Regarding [[Digital Gardens]], this text could require its own note and reorganization work.
 
-## References
+### Important Resources
+
+- [Ember Primitives](https://ember-primitives.pages.dev/)
+
+### References
 - [Ember upgrade](https://cli.emberjs.com/release/basic-use/upgrading/)
 - [Using Ember Template tag](https://guides.emberjs.com/release/components/template-tag-format/)
 - [Octane @tracked properties in native classes models do not JSON.stringify](https://github.com/ember-learn/guides-source/issues/1138)
