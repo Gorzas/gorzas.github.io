@@ -3,7 +3,7 @@ title : EmberJS
 feed: show
 tags: JavaScript framework
 date : 30-05-2023
-updated: 18-09-2024
+updated: 25-09-2024
 type: note
 growth: seedlings
 ---
@@ -57,6 +57,9 @@ export class BaseClass {
 - Further work about cloning an object could be required (like creating a util function to do this same behaviour instead a patched inner method to the class).
 - A better solution when sending data to the API could be to use Ember Data and Ember Data Models attributes. But, as currently Ember Data Models are in the path of deprecation, more research could be needed about it.
 - Regarding [[Digital Gardens]], this text could require its own note and reorganization work.
+
+### Links to review
+- [Ember Roadmap: from @action to arrow functions](https://github.com/emberjs/rfcs/pull/1045)
 
 ### Important Resources
 
