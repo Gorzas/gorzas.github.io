@@ -48,15 +48,15 @@ export class BaseClass {
 ```
 [Source](https://github.com/ember-learn/guides-source/issues/1138)
 
-### Typical issues
-
-- [[Deprecate array prototype extensions]]
-
 ### TODO
 
 - Further work about cloning an object could be required (like creating a util function to do this same behaviour instead a patched inner method to the class).
 - A better solution when sending data to the API could be to use Ember Data and Ember Data Models attributes. But, as currently Ember Data Models are in the path of deprecation, more research could be needed about it.
 - Regarding [[Digital Gardens]], this text could require its own note and reorganization work.
+
+## Typical issues
+
+- [[Deprecate array prototype extensions]]
 
 ### Links to review
 - [Ember Roadmap: from @action to arrow functions](https://github.com/emberjs/rfcs/pull/1045)
