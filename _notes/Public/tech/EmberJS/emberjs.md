@@ -3,7 +3,7 @@ title : EmberJS
 feed: show
 tags: JavaScript framework
 date : 30-05-2023
-updated: 25-09-2024
+updated: 10-10-2024
 type: note
 growth: seedlings
 ---
@@ -13,6 +13,8 @@ growth: seedlings
 **[Glint](https://typed-ember.gitbook.io/glint)**
 
 Typechecker for Ember templates (Components, Helpers and Modifiers) similar to tsc in [[TypeScript]]. It specially oriented to Glimmer components in TypeScript, but it can work with classic components or using a different [component manager](https://github.com/emberjs/rfcs/blob/master/text/0213-custom-components.md). Also, it could be used with JavaScript but JSDoc types info is recommended (otherwise, it won't do type checking). There is a [VSCode extension](https://marketplace.visualstudio.com/items?itemName=typed-ember.glint-vscode) available allowing features like autocompletiong or link files inside the IDE. 
+
+**[Ember Deploy](http://ember-cli-deploy.com/)**
 
 **TODO** add new syntax about:
 - Glimmer (template tags)
