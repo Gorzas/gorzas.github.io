@@ -66,6 +66,7 @@ export class BaseClass {
 ### Important Resources
 
 - [Ember Primitives](https://ember-primitives.pages.dev/)
+- [Glimmer tutorial](https://tutorial.glimdown.com/)
 
 ### References
 - [Ember upgrade](https://cli.emberjs.com/release/basic-use/upgrading/)
