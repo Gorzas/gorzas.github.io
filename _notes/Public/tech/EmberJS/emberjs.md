@@ -16,6 +16,10 @@ Typechecker for Ember templates (Components, Helpers and Modifiers) similar to t
 
 **[Ember Deploy](http://ember-cli-deploy.com/)**
 
+## The Future of EmberJS
+
+- PODs for components aren't going to be compatible with **EmberJS v6**.
+
 **TODO** add new syntax about:
 - Glimmer (template tags)
 - SchemaRecord (and deprecations of Adapters, Serializers, Models and Transforms)
