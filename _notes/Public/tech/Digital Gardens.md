@@ -1,9 +1,10 @@
 ---
 title: Digital Gardens - An intro
 feed: show
-tags: digital-gardens
-date : 24-05-2023
-updated: 08-06-2023
+tags:
+  - digital-gardens
+date: 24-05-2023
+updated: 14-11-2024
 type: note
 growth: seedlings
 ---
@@ -32,3 +33,4 @@ growth: seedlings
 - [Maggie Appleton](https://maggieappleton.com/garden-history)
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
 - [Emmanuel Raymond](https://www.peoray.dev/)
+- [Gwern](https://gwern.net/)
