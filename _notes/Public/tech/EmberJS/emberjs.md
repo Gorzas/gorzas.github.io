@@ -64,6 +64,10 @@ export class BaseClass {
 
 - [[Deprecate array prototype extensions]]
 
+### Best practices
+
+- [[Data down, actions up]]
+
 ### Links to review
 - [Ember Roadmap: from @action to arrow functions](https://github.com/emberjs/rfcs/pull/1045)
 
