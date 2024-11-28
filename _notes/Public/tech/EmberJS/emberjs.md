@@ -2,7 +2,7 @@
 title : EmberJS
 feed: show
 tags: JavaScript framework
-date : 30-05-2023
+date: 30-05-2023
 updated: 10-10-2024
 type: note
 growth: seedlings
