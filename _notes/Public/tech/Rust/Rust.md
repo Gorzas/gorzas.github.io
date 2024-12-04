@@ -3,7 +3,7 @@ title : Rust
 feed: show
 tags: rust
 date : 29-05-2023
-updated: 15-09-2023
+updated: 04-12-2024
 type: note
 growth: seedlings
 ---
@@ -33,5 +33,6 @@ let arr: Vec<Story> = vec![{ id: 1, title: "The Catcher in the Rye" }]
 
 ### Tools
 
+- [Introducing Spin v3](https://www.fermyon.com/blog/introducing-spin-v3)
 - Databases:
   - [SQLx](https://github.com/launchbadge/sqlx)
