@@ -1,9 +1,10 @@
 ---
-title : Rust
+title: Rust
 feed: show
-tags: rust
-date : 29-05-2023
-updated: 04-12-2024
+tags:
+  - rust
+date: 29-05-2023
+updated: 16-12-2024
 type: note
 growth: seedlings
 ---
@@ -34,5 +35,6 @@ let arr: Vec<Story> = vec![{ id: 1, title: "The Catcher in the Rye" }]
 ### Tools
 
 - [Introducing Spin v3](https://www.fermyon.com/blog/introducing-spin-v3)
+- [BoaJS](https://boajs.dev/) - a [[JavaScript]] engine written in [[Rust]]
 - Databases:
   - [SQLx](https://github.com/launchbadge/sqlx)
