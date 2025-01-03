@@ -4,7 +4,7 @@ feed: show
 tags:
   - digital-gardens
 date: 24-05-2023
-updated: 14-11-2024
+updated: 03-01-2025
 type: note
 growth: seedlings
 ---
@@ -29,8 +29,9 @@ growth: seedlings
 - Everything I Know: [https://wiki.nikiv.dev/#content-structure](https://wiki.nikiv.dev/#content-structure)
 - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 
-### Digital Garden Examples:
+### Digital Gardens
 - [Maggie Appleton](https://maggieappleton.com/garden-history)
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
 - [Emmanuel Raymond](https://www.peoray.dev/)
 - [Gwern](https://gwern.net/)
+- [BlogScroll](https://blogscroll.com/)
