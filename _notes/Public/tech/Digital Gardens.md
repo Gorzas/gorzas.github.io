@@ -1,8 +1,7 @@
 ---
 title: Digital Gardens - An intro
 feed: show
-tags:
-  - digital-gardens
+tags: digital-gardens
 date: 24-05-2023
 updated: 03-01-2025
 type: note
