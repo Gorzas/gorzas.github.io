@@ -1,9 +1,11 @@
 ---
 title: Using AI for coding
 feed: show
-tags: ai llm
+tags:
+  - ai
+  - llm
 date: 17-10-2023
-updated: 17-10-2023
+updated: 06-01-2025
 type: essay
 growth: seedlings
 ---
@@ -18,3 +20,4 @@ growth: seedlings
 - What's GPT-3/4?
 
 ### References
+- [How AI will change Software Engineering](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering?utm_source=substack&utm_medium=email)
