@@ -4,7 +4,7 @@ feed: show
 tags:
   - webdev
 date: 30-10-2024
-updated: 02-01-2025
+updated: 08-01-2025
 type: essay
 growth: seedlings
 ---
@@ -15,3 +15,4 @@ growth: seedlings
 - [[The future of Software Engineering (2024)]]
 - [How to ship at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
+- [[The future of Software Engineering (2024)]]
