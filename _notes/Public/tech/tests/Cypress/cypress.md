@@ -3,7 +3,7 @@ title: Cypress
 feed: show
 tags: javascript tests
 date: 06-06-2023
-updated: 04-10-2023
+updated: 13-01-2025
 type: note
 ---
 
@@ -98,3 +98,4 @@ cy.get('[data-test-data="element"]', {
 ### References
 
 - [Best practices - Unnecessary Waiting](https://docs.cypress.io/guides/references/best-practices#Unnecessary-Waiting)
+- [End-to-end testing with Angular](https://testing-angular.com/end-to-end-testing/)
