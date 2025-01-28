@@ -3,7 +3,7 @@ title : EmberJS
 feed: show
 tags: JavaScript framework
 date: 30-05-2023
-updated: 10-10-2024
+updated: 28-01-2025
 type: note
 growth: seedlings
 ---
@@ -75,6 +75,7 @@ export class BaseClass {
 
 - [Ember Primitives](https://ember-primitives.pages.dev/)
 - [Glimmer tutorial](https://tutorial.glimdown.com/)
+- [Design Systems in Ember](https://nullvoxpopuli.com/2025-01-16-design-systems-written-in-ember/)
 
 ### References
 - [Ember upgrade](https://cli.emberjs.com/release/basic-use/upgrading/)
