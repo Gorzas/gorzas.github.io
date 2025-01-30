@@ -10,4 +10,4 @@ growth: seedlings
 
 ## References
 - [Best Practices - Tips for Project Structure and Organization](https://www.thinkitive.com/blog/angular-best-practices-tips-for-project-structure-and-organization/)
-- [Angular - Styleguid](https://angular.dev/style-guide)
+- [Angular - Styleguide](https://angular.dev/style-guide)
