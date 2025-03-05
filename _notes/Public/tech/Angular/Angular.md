@@ -3,7 +3,7 @@ title: Angular
 feed: show
 tags: javascript typescript angular
 date: 21-01-2025
-updated: 26-02-2025
+updated: 05-03-2025
 type: note
 growth: seedlings
 ---
@@ -11,6 +11,7 @@ growth: seedlings
 ## Good practices
 
 - Use [standalone components](https://angular.dev/reference/migrations/standalone) instead of [NgModules](https://angular.dev/guide/ngmodules/overview).
+- Use [control flow](https://angular.dev/guide/templates/control-flow) in templates instead of [NgIf](https://angular.dev/api/common/NgIf) directive.
 
 **TODO**
 
