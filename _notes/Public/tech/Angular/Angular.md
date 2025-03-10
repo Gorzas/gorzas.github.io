@@ -3,7 +3,7 @@ title: Angular
 feed: show
 tags: javascript typescript angular
 date: 21-01-2025
-updated: 05-03-2025
+updated: 10-03-2025
 type: note
 growth: seedlings
 ---
@@ -12,6 +12,7 @@ growth: seedlings
 
 - Use [standalone components](https://angular.dev/reference/migrations/standalone) instead of [NgModules](https://angular.dev/guide/ngmodules/overview).
 - Use [control flow](https://angular.dev/guide/templates/control-flow) in templates instead of [NgIf](https://angular.dev/api/common/NgIf) directive.
+- Use [input](https://angular.dev/guide/components/inputs#configuring-inputs) for passing data parameters to components instead of [@Input](https://angular.dev/guide/components/inputs#declaring-inputs-with-the-input-decorator).
 
 **TODO**
 
