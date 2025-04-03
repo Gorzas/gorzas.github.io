@@ -3,7 +3,7 @@ title: Angular
 feed: show
 tags: javascript typescript angular
 date: 21-01-2025
-updated: 12-03-2025
+updated: 03-04-2025
 type: note
 growth: seedlings
 ---
