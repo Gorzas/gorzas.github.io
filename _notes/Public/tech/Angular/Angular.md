@@ -18,6 +18,7 @@ growth: seedlings
 **TODO**
 
 - How to solve children routing inside standalone components?
+- Move Best Practices into specific article
 
 ## Issues
 
