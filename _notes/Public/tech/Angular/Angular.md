@@ -3,7 +3,7 @@ title: Angular
 feed: show
 tags: javascript typescript angular
 date: 21-01-2025
-updated: 03-04-2025
+updated: 25-04-2025
 type: note
 growth: seedlings
 ---
@@ -19,6 +19,12 @@ growth: seedlings
 
 - How to solve children routing inside standalone components?
 - Move Best Practices into specific article
+
+## Signals
+
+**TODO** Move to an independent post.
+
+- [Angular Signals: Best practices around exposing Signals](https://blog.angulartraining.com/angular-signals-best-practices-around-exposing-signals-5385452150a1)
 
 ## Issues
 
