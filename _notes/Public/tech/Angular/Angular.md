@@ -30,6 +30,23 @@ growth: seedlings
 
 - [Angular Signals: Best practices around exposing Signals](https://blog.angulartraining.com/angular-signals-best-practices-around-exposing-signals-5385452150a1)
 
+## Moving a native fetch into an RxJS Observable
+
+**TODO** create an specific RxJS page
+**TODO** create an specific page for this issue
+
+```
+return new Observable((observer: Subscriber<T>) => {
+  fetch(url)
+    .then((response) => response.json())
+    .then((data) => {
+      observer.next(data);
+      observer.complete();
+    })
+    .catch((err) => observer.error(err));
+});
+```
+
 ## Issues
 
 - [Angular doesn't support .env files by default](https://vikky.dev/angular-and-environment-files) => R&D best solution to work with .env files
