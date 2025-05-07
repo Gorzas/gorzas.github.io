@@ -47,6 +47,8 @@ return new Observable((observer: Subscriber<T>) => {
 });
 ```
 
+[Reference](https://stackoverflow.com/questions/44877062/how-to-convert-a-fetch-api-response-to-rxjs-observable)
+
 ## Issues
 
 - [Angular doesn't support .env files by default](https://vikky.dev/angular-and-environment-files) => R&D best solution to work with .env files
