@@ -14,7 +14,7 @@ growth: seedlings
 
 - [Patterns of Enterprise Application Architecture - Martin Fowler](https://martinfowler.com/books/eaa.html)
 
-### References
+## References
 
 - [On good software engineers](https://candost.blog/on-good-software-engineers/)
 - [[The future of Software Engineering (2024)]]
