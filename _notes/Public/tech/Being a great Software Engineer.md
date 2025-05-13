@@ -1,13 +1,18 @@
 ---
 title: Being a great Software Engineer
 feed: show
-tags:
-  - webdev
+tags: webdev
 date: 30-10-2024
-updated: 08-01-2025
+updated: 13-05-2025
 type: essay
 growth: seedlings
 ---
+
+## Books
+
+### To Read
+
+- [Patterns of Enterprise Application Architecture - Martin Fowler](https://martinfowler.com/books/eaa.html)
 
 ### References
 
