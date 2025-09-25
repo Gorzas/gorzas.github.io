@@ -1,9 +1,11 @@
 ---
 title: WebAssembly
 feed: show
-tags: web webassembly
+tags:
+  - webdev
+  - webassembly
 date: 15-09-2023
-updated: 02-04-2025
+updated: 25-09-2025
 type: note
 growth: seedlings
 ---
