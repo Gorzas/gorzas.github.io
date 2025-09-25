@@ -3,7 +3,7 @@ title: Digital Gardens - An intro
 feed: show
 tags: digital-gardens
 date: 24-05-2023
-updated: 03-01-2025
+updated: 25-09-2025
 type: note
 growth: seedlings
 ---
@@ -22,10 +22,10 @@ growth: seedlings
 - Split essay into two different notes: list of digital gardens and a description of my own
 
 ### References
-- Second brain notes: [https://maggieappleton.com/basb](https://maggieappleton.com/basb)
-- Digital Garden approach: [https://maggieappleton.com/garden-history](https://maggieappleton.com/garden-history)
-- Another great Digital Garden example: [https://www.christopherbiscardi.com/](https://www.christopherbiscardi.com/)
-- Everything I Know: [https://wiki.nikiv.dev/#content-structure](https://wiki.nikiv.dev/#content-structure)
+- [Second brain notes](https://maggieappleton.com/basb)
+- [Digital Garden approach](https://maggieappleton.com/garden-history)
+- [Another great Digital Garden example](https://www.christopherbiscardi.com/)
+- [Everything I Know](https://wiki.nikiv.dev/#content-structure)
 - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 
 ### Digital Gardens
