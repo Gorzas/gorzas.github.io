@@ -38,5 +38,4 @@ growth: seedlings
 - [[The future of Software Engineering (2024)]]
 - [How to ship at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
-- [[The future of Software Engineering (2024)]]
 - [On becoming competitive when joining a new company](https://ludwigabap.bearblog.dev/on-becoming-competitive-when-joining-a-new-company/)
