@@ -1,12 +1,30 @@
 ---
-title: Being a great Software Engineer
+title: Being a Senior Software Engineer
 feed: show
 tags: webdev
 date: 30-10-2024
-updated: 13-05-2025
+updated: 15-10-2025
 type: essay
 growth: seedlings
 ---
+
+**TBD**
+
+**TODO**
+
+- Definition of Senior Software Engineer:
+  - why Engineer over Developer?
+  - Senior as a concept that encapsulates Mid, Staff or any lead role that mixes managment with development
+- Perks to explain:
+ - Communication / Documentation
+ - T-Shape profile and how to get it
+ - Owning the product, features priorities selection
+ - Responsabilities over QA and Automatic testing
+ - Tech knowledge
+ - CI/CDs usage
+ - Architecture
+ - Code reviews and mentoring, how to do it well
+
 
 ## Books
 
