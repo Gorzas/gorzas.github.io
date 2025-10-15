@@ -15,15 +15,16 @@ growth: seedlings
 - Definition of Senior Software Engineer:
   - why Engineer over Developer?
   - Senior as a concept that encapsulates Mid, Staff or any lead role that mixes managment with development
+- Relation with [[The future of Software Engineering (2024)]] and differences
 - Perks to explain:
- - Communication / Documentation
- - T-Shape profile and how to get it
- - Owning the product, features priorities selection
- - Responsabilities over QA and Automatic testing
- - Tech knowledge
- - CI/CDs usage
- - Architecture
- - Code reviews and mentoring, how to do it well
+  - Communication / Documentation
+  - T-Shape profile and how to get it
+  - Owning the product, features priorities selection
+  - Responsabilities over QA and Automatic testing
+  - Tech knowledge
+  - CI/CDs usage
+  - Architecture
+  - Code reviews and mentoring, how to do it well
 
 
 ## Books
