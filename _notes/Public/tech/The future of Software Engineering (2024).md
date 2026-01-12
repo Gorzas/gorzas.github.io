@@ -4,7 +4,7 @@ feed: show
 tags:
   - webdev
 date: 10-07-2024
-updated: 08-01-2025
+updated: 12-01-206
 type: essay
 growth: seedlings
 ---
@@ -48,3 +48,4 @@ For a modern Software Engineer, the tech stuff isn't the only need to find and g
 - [Newsletter - What's old is new again](https://newsletter.pragmaticengineer.com/p/what-is-old-is-new-again)
 - [Video - # The software engineering industry in 2024: what changed in 2 years, why, and what is next](https://www.youtube.com/watch?v=VpPPHDxR9aM)
 - [Future-proofing your Software Engineering career](https://addyo.substack.com/p/future-proofing-your-software-engineering)
+- [The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
