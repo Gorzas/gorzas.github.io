@@ -3,7 +3,7 @@ title : Data down, actions up
 feed: show
 tags: JavaScript framework EmberJS architecture
 date: 28-11-2024
-updated: 28-11-2024
+updated: 23-01-2026
 type: note
 growth: seedlings
 ---
@@ -17,7 +17,7 @@ growth: seedlings
 
 In different frameworks, this pattern is called [one-way-data flow](https://react.dev/learn/thinking-in-react).
 
-### References
+## References
 
 - [Thinking in React](https://react.dev/learn/thinking-in-react)
 - [Ember tutorial: Working with Data](https://guides.emberjs.com/release/tutorial/part-1/working-with-data/)
