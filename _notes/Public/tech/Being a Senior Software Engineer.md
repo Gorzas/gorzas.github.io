@@ -3,7 +3,7 @@ title: Being a Senior Software Engineer
 feed: show
 tags: webdev
 date: 30-10-2024
-updated: 15-10-2025
+updated: 27-01-2026
 type: essay
 growth: seedlings
 ---
@@ -25,6 +25,8 @@ growth: seedlings
   - CI/CDs usage
   - Architecture
   - Code reviews and mentoring, how to do it well
+- Things to research:
+  - Dependability of coworkers: what is a balanced dependability with coworkers when working in the same system? (I know that, when working in a team, being an "independent developer" isn't impossible but this research work should look for a balanced framework where somebody could be as realistic and optimal independent when working inside a team).
 
 
 ## Books
