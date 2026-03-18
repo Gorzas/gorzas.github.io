@@ -2,8 +2,8 @@
 title: Work remotely
 feed: show
 tags: remote
-date: 20-06-2'24
-updated: 20-06-2'24
+date: 20-06-2024
+updated: 18-03-2026
 type: essay
 growth: seedlings
 ---
