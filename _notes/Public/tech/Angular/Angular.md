@@ -3,7 +3,7 @@ title: Angular
 feed: show
 tags: javascript typescript angular
 date: 21-01-2025
-updated: 28-11-2025
+updated: 12-05-2026
 type: note
 growth: seedlings
 ---
@@ -26,6 +26,8 @@ growth: seedlings
 - Move Best Practices into specific article
 
 ## Signals
+
+- `computed()` only listens to **Signals**. [Example of using computed()](https://sagarsnath.medium.com/deep-dive-into-computed-effect-and-linkedsignal-in-angular-signals-ebe416d5e4cc)
 
 **TODO** Move to an independent post.
 
