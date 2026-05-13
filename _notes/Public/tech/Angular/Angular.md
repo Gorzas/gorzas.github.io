@@ -15,7 +15,7 @@ growth: seedlings
 - Use [input](https://angular.dev/guide/components/inputs#configuring-inputs) for passing data parameters to components instead of [@Input](https://angular.dev/guide/components/inputs#declaring-inputs-with-the-input-decorator).
 - Use public attributes for components and avoid using `public` keyword to enforce concision. \[*TODO: add references*\]
 - Use [Pipes instead of methods](https://zmushegh.medium.com/why-use-pipe-instead-of-function-in-angular-507cf972bfb0) in Angular templates.
-- Derive data from observable data, avoid to **unpack** an Observable (assigning data from an observable to a property as a side-effect).
+- [Derive data from observable data](https://angular.love/component-initialization-without-ngoninit-with-async-pipes-for-observables-and-ngonchanges#Refactor%20of%20the%20subscriptions!), avoid to **unpack** an Observable (assigning data from an observable to a property as a side-effect).
 
 ## The future of Angular
 
