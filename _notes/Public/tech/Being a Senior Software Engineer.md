@@ -3,7 +3,7 @@ title: Being a Senior Software Engineer
 feed: show
 tags: webdev
 date: 30-10-2024
-updated: 27-01-2026
+updated: 04-06-2026
 type: essay
 growth: seedlings
 ---
@@ -34,6 +34,8 @@ growth: seedlings
 ### To Read
 
 - [Patterns of Enterprise Application Architecture - Martin Fowler](https://martinfowler.com/books/eaa.html)
+- [Relevant books](https://www.writethedocs.org/books/)
+- [Docs for Developers - Jared Bhatti](https://www.apress.com/us/book/9781484272169)
 
 ## References
 
