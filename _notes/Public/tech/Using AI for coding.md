@@ -1,11 +1,9 @@
 ---
 title: Using AI for coding
 feed: show
-tags:
-  - ai
-  - llm
+tags: ai llm
 date: 17-10-2023
-updated: 06-01-2025
+updated: 15-06-2026
 type: essay
 growth: seedlings
 ---
@@ -21,3 +19,4 @@ growth: seedlings
 
 ### References
 - [How AI will change Software Engineering](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering?utm_source=substack&utm_medium=email)
+- [Martin Fowler - Understanding Spec-Driven-Development](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
