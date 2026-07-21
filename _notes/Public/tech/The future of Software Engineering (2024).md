@@ -1,10 +1,9 @@
 ---
 title: The future of Software Engineering (2024)
 feed: show
-tags:
-  - webdev
+tags: webdev
 date: 10-07-2024
-updated: 23-03-2026
+updated: 21-07-2026
 type: essay
 growth: seedlings
 ---
@@ -39,7 +38,7 @@ For a modern Software Engineer, the tech stuff isn't the only need to find and g
 
 - Being [Product-minded](https://blog.pragmaticengineer.com/the-product-minded-engineer/), meaning that the developer should have the area of the product and how the customer uses it as a priority. Tech companies also would looking for developers who want to meet their customers and understand on first hand their needs.
 - Related with the point above: maintain a close relationship with Product Managers roles and talk a lot with them, understand really well what the product does.
-- Know what's the business model of their company and being very close to the products that are bringing money. Everything that's in an investment in the long run has a great chance to being discarded.
+- Know what's the business model of their company and being very close to the products that are bringing money. Everything that's an investment in the long run has a great chance to being discarded.
 - Avoid leadership roles or not productive roles. Roles like Staff Developer or Engineer Manager are probably going to disappear in the near future. Companies would prioritize people who "do stuff".
 - Communication is **essential**. Learn how to explain complicated stuff in a simple way and, also, try to simplify the code and how to work with it. Learning to document soon and often is an skill.
 
