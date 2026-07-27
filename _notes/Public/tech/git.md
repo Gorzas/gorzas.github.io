@@ -3,7 +3,7 @@ title: git
 feed: show
 tags: git
 date: 03-07-2023
-updated: 26-06-2024
+updated: 27-07-2026
 type: note
 growth: seedlings
 ---
@@ -36,3 +36,4 @@ git commit -m "WIP" -n
 - [Release Please](https://github.com/googleapis/release-please)
 - [Renovate](https://github.com/renovatebot/renovate)
 - [Git Cliff: generate changelog](https://git-cliff.org/)
+- [Git rebase --onto an overview](https://womanonrails.com/git-rebase-onto)
