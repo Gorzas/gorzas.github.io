@@ -29,6 +29,19 @@ git commit -m "WIP" -n
 - What does this tool that doesn't do standard Git hooks?
 
 **TODO** - separate Git from Github tools (in the references are mentioned some Github only tools)
+
+#### Change parent branch
+
+Sometimes it could happen that we have created a branch from _main_ but we need to apply the feature/hotfix into an older branch (e.g. a previous version of the application already deployed to the user).
+
+The command to change the parent branch and avoid all the extra commits that are coming from _main_ is:
+
+```
+git rebase --onto <new parent> <old parent> <current branch>
+```
+
+**TODO** Do I still differenciate hotfix from bugfix? Is there any difference at all?
+
 ## References
 
 - [Husky](https://typicode.github.io/husky/)
