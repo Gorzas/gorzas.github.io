@@ -3,7 +3,7 @@ title: HTML
 feed: show
 tags: html webdev
 date: 19-12-2023
-updated: 23-03-2026
+updated: 01-10-2026
 type: note
 growth: seedlings
 ---
