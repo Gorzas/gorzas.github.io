@@ -3,7 +3,7 @@ title: The future of Software Engineering (2024)
 feed: show
 tags: webdev
 date: 10-07-2024
-updated: 21-07-2026
+updated: 14-10-2026
 type: essay
 growth: seedlings
 ---
@@ -48,3 +48,4 @@ For a modern Software Engineer, the tech stuff isn't the only need to find and g
 - [Video - # The software engineering industry in 2024: what changed in 2 years, why, and what is next](https://www.youtube.com/watch?v=VpPPHDxR9aM)
 - [Future-proofing your Software Engineering career](https://addyo.substack.com/p/future-proofing-your-software-engineering)
 - [The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
+- [Yes, and...](https://htmx.org/essays/yes-and/)
