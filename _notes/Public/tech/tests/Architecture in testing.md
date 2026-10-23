@@ -3,7 +3,7 @@ title: Architecture in testing
 feed: show
 tags: tests
 date: 16-03-2026
-updated: 16-03-2026
+updated: 23-10-2026
 type: essay
 growth: seedling
 ---
@@ -18,3 +18,5 @@ growth: seedling
 - How to check if there are enough use cases to ensure a way to predict bugs and errors in the application (code coverage, paths to check) while not having a bloated test suite.
 
 ## References
+
+-  [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
