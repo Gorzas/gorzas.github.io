@@ -3,7 +3,7 @@ title: Playwright
 feed: show
 tags: test typescript
 created: 07-10-2026
-updated: 22-10-2026
+updated: 23-10-2026
 type: note
 growth: seedlings
 ---
@@ -25,4 +25,5 @@ Using `getByRole` allows the developer to use the page as an user with assistive
 
 ## References
 
-[Playwright Docs - Locate by role](https://playwright.dev/docs/locators#locate-by-role)
+- [Playwright Docs - Locate by role](https://playwright.dev/docs/locators#locate-by-role)
+- [17 Playwright Best Practices That Actually Matter in QA](https://testdino.com/blog/playwright-best-practices)
