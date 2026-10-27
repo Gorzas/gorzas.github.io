@@ -60,6 +60,7 @@ return new Observable((observer: Subscriber<T>) => {
 ## Courses/Books
 
 - [Become a Ninja with Anmgular](https://books.ninja-squad.com/angular)
+- [Certificate: Angular Certificate](https://certificates.dev/angular)
 
 ## References
 - [Best Practices - Tips for Project Structure and Organization](https://www.thinkitive.com/blog/angular-best-practices-tips-for-project-structure-and-organization/)
