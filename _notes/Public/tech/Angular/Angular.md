@@ -3,7 +3,7 @@ title: Angular
 feed: show
 tags: javascript typescript angular
 date: 21-01-2025
-updated: 13-05-2026
+updated: 27-10-2026
 type: note
 growth: seedlings
 ---
@@ -56,6 +56,10 @@ return new Observable((observer: Subscriber<T>) => {
 ## Issues
 
 - [Angular doesn't support .env files by default](https://vikky.dev/angular-and-environment-files) => R&D best solution to work with .env files
+
+## Courses/Books
+
+- [Become a Ninja with Anmgular](https://books.ninja-squad.com/angular)
 
 ## References
 - [Best Practices - Tips for Project Structure and Organization](https://www.thinkitive.com/blog/angular-best-practices-tips-for-project-structure-and-organization/)
